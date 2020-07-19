@@ -1,6 +1,8 @@
 # neural-networks-tfw1
 Python Package for Implementing Plain Neural Networks with Tensorflow version 1
 
+![img]()
+
 # About
 This is a Python package that allows you to build certain neural networks with the Tensorflow (version 1) framework: you can customise the number of hidden layers and hidden units, choose between the optimization algorithm (Gradient Descent, Momentum or Adam, default being Adam), the size of the minibatches...
 
