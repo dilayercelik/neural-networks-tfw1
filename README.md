@@ -88,4 +88,4 @@ I would like to express my gratitude for the lessons provided at Udacity - Machi
 and the Deep Learning specialization provided by deeplearning.ai and Coursera, without which I wouldn't have been able to build this package.
 
 # License
-MIT License - see [license.txt]()
+MIT License - see [license.txt](https://github.com/dilayercelik/neural-networks-tfw1/blob/master/neural_networks_tfw1/license.txt)
