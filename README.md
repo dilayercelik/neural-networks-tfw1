@@ -12,6 +12,9 @@ This package is compatible with the HDF5 binary data format: the input datasets 
 
 -> See the package in [Pypi](https://pypi.org/project/neural-networks-tfw1/)
 
+# Schema of a 'plain' neural network with multiple hidden layers ('plain' to differentiate it from convolutional, residual... neural networks)
+![img2](
+
 # Files
 setup.py - file necessary for pip installing
 
