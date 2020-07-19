@@ -8,7 +8,7 @@ This package is compatible with the HDF5 binary data format: the input datasets 
 
 -> See the Usage section for an example usage.
 
--> See the package in [Pypi](https://pypi.org/project/neural-networks-tf1/)
+-> See the package in [Pypi](https://pypi.org/project/neural-networks-tfw1/)
 
 # Files
 setup.py - file necessary for pip installing
@@ -32,7 +32,7 @@ This package requires:
 We recommend installing Anaconda before installing the packages above.
 Anaconda enables to work with an intuitive way of managing packages and setting up new virtual environments.
 
-To install Anaconda Individual Edition: follow this [link]()
+To install Anaconda Individual Edition: follow this [link](https://docs.anaconda.com/anaconda/install/)
 
 
 # Installation
