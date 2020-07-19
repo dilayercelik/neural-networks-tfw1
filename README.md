@@ -6,6 +6,8 @@ Python Package for Implementing Plain Neural Networks with Tensorflow version 1
 # About
 This is a Python package that allows you to build certain neural networks with the Tensorflow (version 1) framework: you can customise the number of hidden layers and hidden units, choose between the optimization algorithm (Gradient Descent, Momentum or Adam, default being Adam), the size of the minibatches...
 
+Schema of the Neural Network: (LINEAR -> RELU) x l number of hidden layers -> SOFTMAX -> OUPUT
+
 This package is compatible with the HDF5 binary data format: the input datasets need to be in this format.
 
 -> See the Usage section for an example usage.
