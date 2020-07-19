@@ -97,5 +97,9 @@ LinkedIn: [Dilay Fidan Ercelik](https://www.linkedin.com/in/dilay-fidan-ercelik-
 I would like to express my gratitude for the lessons provided at Udacity - Machine Learning Engineer Nanodegree Course
 and the Deep Learning specialization provided by deeplearning.ai and Coursera, without which I wouldn't have been able to build this package.
 
+-> Access the Udacity ML Engineer Nanodegree [HERE](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+
+-> Access the Deep Learning specialization at Coursera (deeplearning.ai) [HERE](https://www.coursera.org/specializations/deep-learning?skipBrowseRedirect=true)
+
 # License
 MIT License - see [license.txt](https://github.com/dilayercelik/neural-networks-tfw1/blob/master/neural_networks_tfw1/license.txt)
